@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoReason0
 - 🇰🇷 I'm Korean(not north)
 - 👀 I’m interested in Hackintosh
-- 🌱 I’m currently learning Hackintosh in AMD CPU
+- 🌱 I was learning how to make my own bootloader
 - ⭐ you cant reach me without mail ⭐
 - ⚡ Fun fact: I made my name meaningless because I was too lazy to name it.
